@@ -2,7 +2,7 @@
 
 Meu nome é Guilherme Righi.
 
-- Estou estudando ma Alura.
+- Estou estudando na Alura.
 - Estoume desenvolvendo na linguagem JavaScript.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
